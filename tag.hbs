@@ -33,7 +33,7 @@
                     {{#if description}}
                         {{description}}
                     {{else}}
-                        {{t "A collection of (plural ../pagination.total empty=(t 'no posts') singular=(t '% post') plural=(t '% posts'))"}}
+                        {{plural ../pagination.total empty=(t "No posts") singular=(t "A collection of 1 post") plural=(t "A collection of % posts")}}
                     {{/if}}
                 </div>
             </div>
