@@ -1,0 +1,21 @@
+{
+	"Enter your email": "Geben sie ihre E-Mail Adresse ein",
+	"Account": "Konto",
+	"Subscribe": "Abonnieren",
+	"Subscribe to {blogtitle}": "Abonniere {blogtitle}",
+	"A collection of posts": "Eine Sammlung von Posts",
+	"A collection of 1 post": "Eine Sammlung von einem Post",
+	"A collection of % posts": "Eine Sammlung von % Posts",
+	"Get the latest posts delivered right to your inbox": "Erhalte die neusten Possts direkt in dein Postfach",
+	"Go to the front page": "Gehe zur Startseite",
+	"Latest Posts": "Neuste Posts",
+	"Message": "Fehlermeldung",
+	"No posts": "Keine Post",
+	"Ref": "Ref",
+	"1 post": "1 Post",
+	"% posts": "% Posts",
+	"1 min read": "Lesezeit: 1 Min.",
+	"% min read": "Lesezeit: % Min.",
+	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Großartig!</strong> Überprüfen Sie Ihren Posteingang und klicken Sie auf den Link, um Ihr Abonnement zu bestätigen.",
+	"Please enter a valid email address!": "Bitte geben Sie eine gültige E-Mail-Adresse ein!"
+}
